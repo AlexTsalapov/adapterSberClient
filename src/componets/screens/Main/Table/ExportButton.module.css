@@ -1,0 +1,12 @@
+.button {
+    float: right;
+    width: 310px;
+    margin-top: 20px;
+    height: 36px;
+    padding: 8px 16px;
+    margin-right: 2vw;
+    font-size: 16px;
+    border: none;
+    color: green;
+
+}

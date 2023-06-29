@@ -1,0 +1,23 @@
+.table{
+    margin: 1% 5% 5% 5%;
+    background-color: aquamarine;
+    color: green;
+    width: 90%;
+    border-collapse: collapse;
+    text-align: center;
+}
+.table td,tr{
+    border: 1px solid lightgrey;
+    padding: 8px;
+    text-align: left;
+    text-align: center;
+
+
+}
+.table th {
+    background: mediumseagreen;
+    font-family: "SB Sans Display", sans-serif;
+    font-style: normal;
+    text-align: center;
+    font-size: 16px;
+}

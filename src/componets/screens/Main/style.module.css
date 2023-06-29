@@ -1,0 +1,22 @@
+.agregator{
+    font-size: 3vw;
+    text-align: center;
+}
+.text{
+    font-size: 2vw;
+   display: flex;
+
+
+
+}
+.textField{
+    font-size: 2vw;
+    padding: 0 3% 0 54.5%;
+
+
+}
+.textTable{
+    font-size: 2vw;
+    padding: 0 0 0 5%;
+}
+
